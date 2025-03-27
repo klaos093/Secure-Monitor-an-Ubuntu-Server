@@ -1,0 +1,13 @@
+2025-03-25 20:35:41,922 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:30:50
+2025-03-25 20:35:41,923 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:30:56
+2025-03-25 20:35:41,923 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:31:05
+2025-03-25 20:35:41,924 fail2ban.filtersystemd  [1267]: INFO    [sshd] Jail is in operation now (process new journal entries)
+2025-03-25 20:47:43,634 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:42
+2025-03-25 20:47:43,634 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:42
+2025-03-25 20:47:43,635 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:42
+2025-03-25 20:47:43,636 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:42
+2025-03-25 20:47:45,096 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:44
+2025-03-25 20:47:45,096 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:44
+2025-03-25 20:47:45,097 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:44
+2025-03-25 20:47:45,097 fail2ban.filter         [1267]: INFO    [sshd] Found 192.168.1.168 - 2025-03-25 20:47:44
+2025-03-25 20:47:45,814 fail2ban.actions        [1267]: NOTICE  [sshd] Ban 192.168.1.168
