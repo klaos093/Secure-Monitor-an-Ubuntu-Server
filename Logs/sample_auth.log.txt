@@ -1,0 +1,14 @@
+2025-03-25T20:47:42.639127+00:00 Server01 sshd[4021]: Failed password for server from 192.168.1.168 port 58520 ssh2
+2025-03-25T20:47:42.640206+00:00 Server01 sshd[4016]: Failed password for server from 192.168.1.168 port 58496 ssh2
+2025-03-25T20:47:42.640920+00:00 Server01 sshd[4015]: Failed password for server from 192.168.1.168 port 58492 ssh2
+2025-03-25T20:47:42.641772+00:00 Server01 sshd[4017]: Failed password for server from 192.168.1.168 port 58512 ssh2
+2025-03-25T20:47:44.666275+00:00 Server01 sshd[4021]: Failed password for server from 192.168.1.168 port 58520 ssh2
+2025-03-25T20:47:44.666510+00:00 Server01 sshd[4017]: Failed password for server from 192.168.1.168 port 58512 ssh2
+2025-03-25T20:47:44.699805+00:00 Server01 sshd[4015]: Failed password for server from 192.168.1.168 port 58492 ssh2
+2025-03-25T20:47:44.704297+00:00 Server01 sshd[4016]: Failed password for server from 192.168.1.168 port 58496 ssh2
+2025-03-25T20:47:46.846929+00:00 Server01 sshd[4015]: Failed password for server from 192.168.1.168 port 58492 ssh2
+2025-03-25T20:47:46.875441+00:00 Server01 sshd[4016]: Failed password for server from 192.168.1.168 port 58496 ssh2
+2025-03-25T20:47:46.875783+00:00 Server01 sshd[4017]: Failed password for server from 192.168.1.168 port 58512 ssh2
+2025-03-25T20:47:47.432418+00:00 Server01 sshd[4021]: Failed password for server from 192.168.1.168 port 58520 ssh2
+2025-03-25T20:52:33.573236+00:00 Server01 sudo: pam_unix(sudo:auth): conversation failed
+2025-03-25T20:52:33.581415+00:00 Server01 sudo: pam_unix(sudo:auth): auth could not identify password for [server]
